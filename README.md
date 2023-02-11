@@ -18,4 +18,3 @@ Hello, my name is Hugo T and I am a BTEC's student majoring in Computer Science 
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 ![maintained - yes](https://img.shields.io/badge/betagames-CEO-blue)
-[![Sample screenshot](https://media.discordapp.net/attachments/733366929561092157/1073665853838598154/fav.png)](https://media.discordapp.net/attachments/733366929561092157/1073665853838598154/fav.png "Betagames Official Developper")
