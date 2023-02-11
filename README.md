@@ -9,6 +9,7 @@ Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.o
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
 - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
 
+### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git,github)](https://skillicons.dev)
 <br />
