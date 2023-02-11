@@ -23,7 +23,7 @@ Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.o
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![HugoTby's Github Stats](![HugoTby's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
