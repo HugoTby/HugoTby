@@ -13,7 +13,7 @@ Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.o
 <img align="left" src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" width="30px">
 <img align="left" src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" width="30px">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git)](https://skillicons.dev)
 <br />
 <br />
 ![HugoTby's Github Stats](https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=true)
