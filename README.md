@@ -10,8 +10,8 @@ Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.o
 - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
 
 
-<img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" width="30px">
-<img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" width="30px">
+<img align="left" src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" width="30px">
+<img align="left" src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" width="30px">
 
 ![HugoTby's Github Stats](https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&hide=TeX&layout=compact)
