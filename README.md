@@ -1,17 +1,12 @@
 ### Hi there 👋, I am [Hugo](https://HugoTby.github.io/)! 😁
 
-Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Hugo T and I am a BTEC's student majoring in Computer Science and Networks. My technology stack involves Javascript, HTML5, CSS3, C, C++, MySQL, Bootstrap.
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/He/His
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- 💬 Brainstorm with me over tech, algorithms and career
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git,github,wordpress)](https://skillicons.dev)
 <br />
 <br />
 
@@ -20,3 +15,6 @@ Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.o
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
+![maintained - yes](https://img.shields.io/badge/betagames-yes-blue)
