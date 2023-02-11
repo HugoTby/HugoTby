@@ -17,7 +17,8 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 </p>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
+
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-orange?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 ![maintained - yes](https://img.shields.io/badge/Betagames-CEO-green)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
