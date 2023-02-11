@@ -16,7 +16,7 @@ Hello, my name is Hugo T and I am a master's student at [Harvard](https://eecs.o
 <br />
 
 ![HugoTby's Github Stats](https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
