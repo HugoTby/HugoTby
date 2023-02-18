@@ -6,7 +6,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,c,cpp,csharp,java,git,github,wordpress,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,nodejs,java,c,cpp,cs,git,github,wordpress,python,blender,unreal,unity,discord,bots)](https://skillicons.dev)
 <br />
 <br />
 
