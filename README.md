@@ -14,7 +14,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=trueinclude_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact&langs_count=8" align = "center"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact&langs_count=8" align = "center"/>
 </p>
 
 
