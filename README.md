@@ -23,3 +23,4 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 ![maintained - yes](https://img.shields.io/badge/Betagames-CEO-green)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
+ 
