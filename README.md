@@ -27,8 +27,3 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
  
 <!--![Visitor Badge](https://img.shields.io/badge/visitors-1,7k-blue)-->
  
-
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/HugoTby/HugoTby/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/HugoTby/HugoTby/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/HugoTby/HugoTby/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
