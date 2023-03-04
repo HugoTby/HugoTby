@@ -5,9 +5,10 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 - 💬 Brainstorm with me over tech, algorithms and career
 
 ### Languages and Tools:
-
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,nodejs,java,c,cpp,cs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,wordpress,python,blender,unreal,unity,discord,bots)](https://skillicons.dev)
+ </p>
 <br />
 <br />
 
