@@ -12,10 +12,12 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 <br />
 
 
-<img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=trueinclude_all_commits=true&custom_title=GitHub%20Stats&PAT_1" align = "center"/>
-<img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact&langs_count=8&PAT_1" align = "center"/>
+<p align="left">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=trueinclude_all_commits=true&custom_title=GitHub%20Stats&PAT_1" align = "center"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact&langs_count=8&PAT_1" align = "center"/>
  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=hugotby&theme=dark&hide=TeX&layout=compact&langs_count=8&PAT_1" align = "center"/>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugotby&theme=onedark" alt="hugotby" /></a>
+</p>
 
 
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-orange?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
