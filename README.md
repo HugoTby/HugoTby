@@ -23,6 +23,47 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
  <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=hugotby&theme=dark&hide=TeX&layout=compact&langs_count=8&PAT_1&hide_border=true&background=FFFFFF00" align = "center"/>
 </p>
 
+### Open source projects
+<br />
+<br />
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/HugoTby/Block-Right-Click"><b>Block Right Click</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HugoTby/Block-Right-Click?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HugoTby/Block-Right-Click?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HugoTby/Block-Right-Click?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HugoTby/Block-Right-Click?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/HugoTby/Locate-IP-Address"><b>Locate the IP Address from a website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HugoTby/Locate-IP-Address?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HugoTby/Locate-IP-Address?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HugoTby/Locate-IP-Address?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HugoTby/Locate-IP-Address?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/HugoTby/Translate-with-IP-Address"><b>Translate a website from the IP address</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HugoTby/Translate-with-IP-Address?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HugoTby/Translate-with-IP-Address?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HugoTby/Translate-with-IP-Address?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HugoTby/Translate-with-IP-Address?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br />
+<br />
 
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-orange?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
