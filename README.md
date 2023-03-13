@@ -70,4 +70,4 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 ![maintained - yes](https://img.shields.io/badge/betagames-CEO-green)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
  
-<!--![Visitor Badge](https://img.shields.io/badge/visitors-1,7k-blue)-->
+<!--![Visitor Badge](https://img.shields.io/badge/visitors-1,7k-blue)--> 
