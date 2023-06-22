@@ -12,6 +12,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
     <img src="https://skillicons.dev/icons?i=html,css,php,js,nodejs,java,c,cpp,cs,git,github,wordpress,python,blender,unreal,unity,discord,bots&perline=9" />
   </a>
 </p>
+
 <br />
 <br />
 
@@ -21,6 +22,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF00&PAT_1" align = "center"/>
  <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=hugotby&theme=dark&hide=TeX&layout=compact&langs_count=8&hide_border=true&background=FFFFFF00&PAT_1" align = "center"/>
 </p>
+
 
 ### Open source projects
 <br />
@@ -43,7 +45,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
       <td><img alt="Issues" src="https://img.shields.io/github/issues/HugoTby/Block-Right-Click?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HugoTby/Block-Right-Click?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+     <tr>
       <td><a href="https://github.com/HugoTby/Locate-IP-Address"><b>Locate the IP Address from a website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/HugoTby/Locate-IP-Address?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/HugoTby/Locate-IP-Address?style=flat-square&labelColor=343b41"/></td>
@@ -77,5 +79,3 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
  
 <!--![Visitor Badge](https://img.shields.io/badge/visitors-1,7k-blue)--> 
-
-
