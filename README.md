@@ -1,3 +1,4 @@
+
 ### Hi there 👋, I am [Hugo](https://HugoTby.github.io/)! 😁
 
 Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Science and Networks. My technology stack involves Javascript, HTML5, CSS3, C, C++, MySQL, Bootstrap.
@@ -78,4 +79,5 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
  
 <!--![Visitor Badge](https://img.shields.io/badge/visitors-1,7k-blue)--> 
+
 
