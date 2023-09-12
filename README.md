@@ -9,7 +9,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,nodejs,java,c,cpp,cs,git,github,wordpress,python,blender,unreal,unity,discord,bots&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,nodejs,java,c,cpp,cs,git,github,wordpress,python,blender,unreal,unity,discord,bots,arduino,dotnet,electron,figma,linux,qt,py,raspberrypi,react,visualstudio,vscode&perline=9" />
   </a>
 </p>
 
