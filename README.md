@@ -70,6 +70,7 @@ Hello, my name is Hugo Tabary and I am a BTEC's student majoring in Computer Sci
 </table>
 
 <br />
+
 <br />
 
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-orange?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
