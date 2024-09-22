@@ -1,7 +1,5 @@
 ### Hi there 👋, I am [Hugo](https://HugoTby.github.io/)! 😁
 
-Hello, my name is Hugo and I am a BTEC's student majoring in Computer Science and Networks. My technology stack involves Javascript, HTML5, CSS3, C, C++, MySQL, Bootstrap.
-
 - 💬 Brainstorm with me over tech, algorithms and career
 
 ### Languages and Tools:
